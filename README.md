@@ -1,8 +1,10 @@
 Can I Has Cheezburger?
 ================================================================================
 
-![](images/burger-gui.png)
+<img 
+  src="images/burger-gui.png" 
+  style="display: block; margin-left: auto; margin-right: auto;">
 
 -----
 
-Made with <img height="16px" src="https://raw.githubusercontent.com/boisgera/burger/master/images/flet-logo.svg"> and ❤️. 
+Made with <a href="https://flet.dev/"><img height="16px" src="images/flet-logo.svg">flet</a> and ❤️. 
