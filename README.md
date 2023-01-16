@@ -5,4 +5,4 @@ Can I Has Cheezburger?
 
 -----
 
-Made with <img height="1em" src="images/flet-logo.svg"> and ❤️. 
+Made with <img height="1em" src="https://raw.githubusercontent.com/boisgera/burger/master/images/flet-logo.svg"> and ❤️. 
