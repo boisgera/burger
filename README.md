@@ -1,9 +1,9 @@
 Can I Has Cheezburger?
 ================================================================================
 
-<img 
-  src="images/burger-gui.png" 
-  style="display: block; margin-left: auto; margin-right: auto;">
+<p align="center">
+  <img src="images/burger-gui.png">
+</p>
 
 -----
 
