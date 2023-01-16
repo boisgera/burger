@@ -1,4 +1,4 @@
-Can I Has Cheezburger?
+I Can Has Cheezburger?
 ================================================================================
 
 <p align="center">
