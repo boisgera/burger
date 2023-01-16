@@ -7,4 +7,4 @@ I Can Has Cheezburger?
 
 -----
 
-Made with <a href="https://flet.dev/"><img height="16px" src="images/flet-logo.svg">flet</a> and ❤️. 
+Made with <a href="https://flet.dev/"><img height="16px" style="position: relative; top: 2px;" src="images/flet-logo.svg"> flet</a> and ❤️. 
